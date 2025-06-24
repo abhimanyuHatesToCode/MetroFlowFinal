@@ -129,3 +129,4 @@ User Input (Qt) -> C++ Pathfinding -> PathSegments (C++) ->
 
 Most of the GUI part is done with the help of AI, but still knowing the basics of Qt is must.
 To run this code you just have to download Qt application, make a new file using Cmake and move all the files where CMakeList exist.
+AND MOST IMPORTANTLY - Replace your CMakeList with mine !!!
