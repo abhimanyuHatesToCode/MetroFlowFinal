@@ -1,0 +1,11 @@
+# ninja log v6
+4	559	7721299575408995	build.ninja	6d0755d45d7a293a
+6	594	7721299581154318	MetroOptimization_autogen/timestamp	a37947228cce85e9
+6	594	7721299581154318	MetroOptimization_autogen/mocs_compilation.cpp	a37947228cce85e9
+6	594	7721299581154318	C:/Users/ASUS/Desktop/Qt/MetroFlowFinal/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MetroOptimization_autogen/timestamp	a37947228cce85e9
+6	594	7721299581154318	C:/Users/ASUS/Desktop/Qt/MetroFlowFinal/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/MetroOptimization_autogen/mocs_compilation.cpp	a37947228cce85e9
+599	3264	7721299581729805	CMakeFiles/MetroOptimization.dir/MetroOptimization_autogen/mocs_compilation.cpp.obj	f4237c0d643b9b51
+615	3289	7721299581886086	CMakeFiles/MetroOptimization.dir/main.cpp.obj	18f65413a3596ae3
+658	4518	7721299582198572	CMakeFiles/MetroOptimization.dir/metrosystem.cpp.obj	edc6826bf6bfea0d
+635	4746	7721299582042412	CMakeFiles/MetroOptimization.dir/mainwindow.cpp.obj	3f0c4825699bbcf4
+4746	5468	7721299623217554	MetroOptimization.exe	238c4d4ee7a43ed0
